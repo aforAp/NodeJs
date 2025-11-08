@@ -1,0 +1,5 @@
+D:\node.js\files\promiseFile.txt
+
+ hello
+
+ hello
