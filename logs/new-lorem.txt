@@ -7,3 +7,20 @@
 20251109	09:46:47	f8a22d32-1e8f-4ad8-a779-2bc292ed9daf	/new-page.html	GET
 20251109	09:46:47	fb66d490-3f6d-49f1-ba8b-30464971af9a	/css/style.css	GET
 20251109	09:46:47	7cde1304-d043-4902-b801-f28b303c8c05	/img/img1.jpg	GET
+20251109	10:37:09	bcabf191-7a0b-4446-9f31-56c9fee103b2	/new-page.html	GET
+20251109	10:37:09	b3729bb3-dc70-44aa-8a6f-c6e9ef2eba54	TypeError : fsPromises.readFil is not a function
+20251109	10:37:25	382908de-e8a3-40f5-b347-b1d6aa093f21	/new-page.html	GET
+20251109	10:37:25	43ebee3f-5249-4aa6-8d02-aeeb7d6d34f4	TypeError : fsPromises.readFil is not a function
+20251109	10:37:26	21a39211-2790-4d3b-9826-db8960251d18	/new-page.html	GET
+20251109	10:37:26	40ad3966-6a75-4733-a6a7-7d89ca0dcda4	TypeError : fsPromises.readFil is not a function
+20251109	10:37:26	7686cd38-b821-47d8-993c-e8aefb289be5	/new-page.html	GET
+20251109	10:37:26	cc77b533-8a25-4f85-ba08-6eed3dbf20e4	TypeError : fsPromises.readFil is not a function
+20251109	10:37:26	ec94ec9c-c323-43c8-a950-f95b83787d21	/new-page.html	GET
+20251109	10:37:26	c4a9d666-4dd9-4a55-8a15-c439024165a3	TypeError : fsPromises.readFil is not a function
+20251109	10:37:26	e71b2433-d4ef-4b50-a45c-0ab1069941e6	/new-page.html	GET
+20251109	10:37:26	96fc25cc-fa06-41be-b49a-8ab4c4faf5f6	TypeError : fsPromises.readFil is not a function
+20251109	10:37:36	f5ab5406-4e6b-4d8d-b476-eefe3e715371	/new-page.html	GET
+20251109	10:37:36	cb6f88a3-8178-4749-9962-148c2310f769	/css/style.css	GET
+20251109	10:37:36	d334e386-2f6b-472f-a4f0-9bf00b359373	/img/img1.jpg	GET
+20251109	10:38:14	dadc67d0-61b5-4817-a3e2-d8655c43101f	/index.html	GET
+20251109	10:38:14	22265f39-a94f-462b-8450-3e77dc2cd86b	/css/style.css	GET
